@@ -1,0 +1,1 @@
+`execute as @p[type=tnt] run summon tnt`
